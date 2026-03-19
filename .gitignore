@@ -1,0 +1,18 @@
+# Python 虚拟环境
+.venv/
+venv/
+ENV/
+
+# Python 编译文件
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志
+*.log
